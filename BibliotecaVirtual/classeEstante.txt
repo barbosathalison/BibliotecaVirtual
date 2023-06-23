@@ -1,0 +1,9 @@
+Estante:
+
+- quantidadeLivros
+- pilhaFavoritos
+
++ adicionarLivro()
++ removerLivro()
++ adicionarPilhaFavoritos()
++ removerPilhaFavoritos()

@@ -11,5 +11,7 @@ Projeto de Biblioteca Virtual objetivos:
 ● Marcar livro como "Lido"
 ● Dar notas de 0 - 5 para os livros adicionados na estante
 ● Excluir um livro da estante
+● Adicionar livro a "Pilha de Favoritos"
+● Remover livro da "Pilha de Favoritos"
 
 

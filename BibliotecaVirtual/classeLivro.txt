@@ -1,0 +1,19 @@
+Livro:
+
+- titulo
+- autor
+- totalPaginas
+- paginaAtual
+- paginaMarcada
+- nota
+
++ infos()
++ abrir()
++ fechar()
++ avancarPagina()
++ voltarPagina()
++ avancar10Paginas()
++ voltar10Paginas()
++ navergarAtePagina()
++ marcarPagina()
++ darNota()
